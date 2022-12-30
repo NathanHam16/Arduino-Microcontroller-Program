@@ -1,2 +1,2 @@
 # Arduino-Microcontroller-Program
-An Arduino program created to operate the Arduino Nano ATMega328P chip. 
+Works with a handheld device with 4 button, potentiometer, and switch inputs. Outputs, LED's, and sound through the buzzer.
